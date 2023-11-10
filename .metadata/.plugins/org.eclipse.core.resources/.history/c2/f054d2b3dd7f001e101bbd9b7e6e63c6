@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="G6WebClient">
+        <property name="context-root" value="G6WebClient"/>
+        <property name="java-output-path" value="/G6WebClient/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\basma\Desktop\webClient\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3243905527.index
+\G6WebClient\src\main\java
